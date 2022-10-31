@@ -1,6 +1,17 @@
-# racecalc
+# tmfl-racecalc
 
-Car go brr
+Lay out your race strategy for TMFL races. 
+Go to https://liev.dev/racecalc for a working example of the page
+
+## Explanation
+ - Laps: total laps of the final race
+ - Stops: how many stops you want to make during the race
+ - Time per pitstop: how long it takes to drive through the pit (without refueling)
+ - Refueling rate: how many units get refueled per second (normally 4)
+ - Fuel usage per lap: how much fuel is used in one lap (average, measure during training)
+ - Tire wear per lap: How much tires get worn down in one lap (average, measure during training)
+ 
+Red stints or stops mean that the current strategy is not possible, increase the number of stops and try again
 
 ## Project setup
 ```
