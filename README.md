@@ -1,7 +1,9 @@
 # tmfl-racecalc
 
 Lay out your race strategy for TMFL races. 
-Go to https://liev.dev/racecalc for a working example of the page
+Go to https://liev.dev/racecalc for a working example of the page <br />
+You are free to use or modify any part of this repo excluding cibumArs (src/assets/cibumArs.css) for private or commercial purposes. <br />
+cibumArs is all rights reserved and may only be used privately
 
 ## Explanation
  - Laps: total laps of the final race
